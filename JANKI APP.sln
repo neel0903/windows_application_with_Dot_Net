@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JANKI APP", "JANKI APP\JANKI APP.csproj", "{516F7066-0E60-4DEF-A16D-F32C41245169}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{13BFECD8-89F6-4E4B-B0FA-89BF404483A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516F7066-0E60-4DEF-A16D-F32C41245169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516F7066-0E60-4DEF-A16D-F32C41245169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516F7066-0E60-4DEF-A16D-F32C41245169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516F7066-0E60-4DEF-A16D-F32C41245169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BFECD8-89F6-4E4B-B0FA-89BF404483A1}.Debug|Any CPU.ActiveCfg = Debug
+		{13BFECD8-89F6-4E4B-B0FA-89BF404483A1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E91EB7-15DC-4A7E-BD69-DEC5014C6DF7}
+	EndGlobalSection
+EndGlobal
