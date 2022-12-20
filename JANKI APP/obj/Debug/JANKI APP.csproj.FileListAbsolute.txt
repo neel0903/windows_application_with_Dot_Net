@@ -1,0 +1,27 @@
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\JANKI APP.exe.config
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\JANKI APP.exe
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\JANKI APP.pdb
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI_APP.HOME.resources
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI_APP.Properties.Resources.resources
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI APP.csproj.GenerateResource.cache
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI APP.exe
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI APP.pdb
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI_APP.INVOICE.resources
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI_APP.CHALAN.resources
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI_APP.SALEINFO.resources
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\JANKIDATABASE.mdf
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\JANKIDATABASE_log.ldf
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI_APP.ENVELOPE_PRINTING.resources
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI_APP.STOCKINFO.resources
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\EntityFramework.dll
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\EntityFramework.xml
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI APP.csproj.CopyComplete
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI_APP.PAYMENT_INFO.resources
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\PagedList.dll
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\PagedList.xml
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\obj\Debug\JANKI APP.csprojAssemblyReference.cache
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\ExcelLibrary.dll
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\CircularProgressBar.dll
+C:\Users\gunat\source\repos\JANKI APP\JANKI APP\bin\Debug\WinFormAnimation.dll

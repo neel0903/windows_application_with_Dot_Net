@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="JANKIDATABASEModelStoreContainer" CdmEntityContainer="JANKIDATABASEEntities">
+    <EntitySetMapping Name="CHALAN1">
+      <EntityTypeMapping TypeName="JANKIDATABASEModel.CHALAN1">
+        <MappingFragment StoreEntitySet="CHALAN1">
+          <ScalarProperty Name="BILLNO" ColumnName="BILLNO" />
+          <ScalarProperty Name="DATE" ColumnName="DATE" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="VILLAGE" ColumnName="VILLAGE" />
+          <ScalarProperty Name="PRODUCT" ColumnName="PRODUCT" />
+          <ScalarProperty Name="NOOFBAGS" ColumnName="NOOFBAGS" />
+          <ScalarProperty Name="NETWEIGOFBAG" ColumnName="NETWEIGOFBAG" />
+          <ScalarProperty Name="BACHKU" ColumnName="BACHKU" />
+          <ScalarProperty Name="TOTALWEIGHT" ColumnName="TOTALWEIGHT" />
+          <ScalarProperty Name="WEIGHTLOSS" ColumnName="WEIGHTLOSS" />
+          <ScalarProperty Name="NETWEIG" ColumnName="NETWEIG" />
+          <ScalarProperty Name="RATE" ColumnName="RATE" />
+          <ScalarProperty Name="AMOUNT" ColumnName="AMOUNT" />
+          <ScalarProperty Name="ADVANCE" ColumnName="ADVANCE" />
+          <ScalarProperty Name="PAIDAMOUNT" ColumnName="PAIDAMOUNT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
