@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="JANKIDATABASEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="CHALAN1">
+    <Key>
+      <PropertyRef Name="BILLNO" />
+    </Key>
+    <Property Name="BILLNO" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DATE" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="NAME" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="VILLAGE" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PRODUCT" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="NOOFBAGS" Type="float" />
+    <Property Name="NETWEIGOFBAG" Type="float" />
+    <Property Name="BACHKU" Type="float" />
+    <Property Name="TOTALWEIGHT" Type="float" />
+    <Property Name="WEIGHTLOSS" Type="float" />
+    <Property Name="NETWEIG" Type="float" />
+    <Property Name="RATE" Type="float" />
+    <Property Name="AMOUNT" Type="float" />
+    <Property Name="ADVANCE" Type="float" />
+    <Property Name="PAIDAMOUNT" Type="float" />
+  </EntityType>
+  <EntityContainer Name="JANKIDATABASEModelStoreContainer">
+    <EntitySet Name="CHALAN1" EntityType="Self.CHALAN1" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
